@@ -5,7 +5,7 @@
 <nav>
     <div class="navbar bg-accent ">
         <div class="flex-1">
-            <a class="btn btn-ghost normal-case text-xl text-primary" href="/">Taras F</a>
+            <a class="btn btn-ghost normal-case text-xl text-primary" href="/">Blog</a>
         </div>
 
         <div class="flex-none">
